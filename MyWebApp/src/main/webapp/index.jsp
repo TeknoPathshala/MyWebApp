@@ -5,6 +5,6 @@
           <meta content="text/html; charset=utf-8" />
     </head>  
 <body>
-<h2>Welcome to Jenkins, Maven and BitBucket Integration!</h2>
+<h2>We are implementing CI - using Jenkins Freestyle Job.. Welcome to Jenkins, Maven and BitBucket Integration!</h2>
 </body>
 </html>
